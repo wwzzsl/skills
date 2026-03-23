@@ -1,7 +1,7 @@
 ---
 name: prompt-optimizer
 version: "1.0.0"
-homepage: https://xiaomiyoga.com/mojian
+homepage: https://github.com/wwzzsl/skills
 
 # 必需的环境变量（运行前必须配置）
 env:
